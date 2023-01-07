@@ -105,7 +105,7 @@ ul li{
 /* Call */
 .call{
     margin-top: 130px;
-    background-image: url('./images/gradient1.png'), url('./images/watch.png');
+    background-image: url('../images/gradient1.png'), url('../images/watch.png');
     background-repeat: no-repeat;
     background-position: center;
     border-radius: 10px;
